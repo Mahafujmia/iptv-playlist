@@ -1,0 +1,7 @@
+EXTM3U
+#EXTINF:-1 tvg-id="channel1" group-title="News",Channel 1
+http://example.com/stream1.ts
+
+#EXTINF:-1 tvg-id="channel2" group-title="Sports",Channel 2
+http://example.com/stream2.ts
+
