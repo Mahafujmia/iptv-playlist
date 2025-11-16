@@ -5,3 +5,5 @@ http://103.89.248.130:8082/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="channel2" group-title="Sports",Channel 2
 http://103.89.248.130:8082/BBC-NEWS/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/BBC_News_HD_Logo.svg", Channel 1
+http://103.89.248.130:8082/BBC-NEWS/tracks-v1a1/mono.m3u8
