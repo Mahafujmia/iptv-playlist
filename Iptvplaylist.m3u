@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="player1" tvg-name="SANGEET BANGLA" tvg-logo="https://via.placeholder.com/100x50?text=Player+1" group-title="Music",SANGEET BANGLA
+http://103.89.248.130:8082/SANGEET-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player2" tvg-name="71-TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+2" group-title="News",71-TV
+http://103.89.248.130:8082/71-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player3" tvg-name="DBC-NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+3" group-title="News",DBC-NEWS
+http://103.89.248.130:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player4" tvg-name="INDEPENDENT NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+4" group-title="News",INDEPENDENT NEWS
+http://103.89.248.130:8082/INDEPENDENT-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player5" tvg-name="SOMOY TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+5" group-title="News",SOMOY TV
+http://103.89.248.130:8082/SOMOY_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player6" tvg-name="NEWS 24" tvg-logo="https://via.placeholder.com/100x50?text=Player+6" group-title="News",NEWS 24
+http://103.89.248.130:8082/NEWS-24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player7" tvg-name="ATN NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+7" group-title="News",ATN NEWS
+http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player8" tvg-name="BBC NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+8" group-title="News",BBC NEWS
+http://103.89.248.130:8082/BBC-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player9" tvg-name="Star jalsha" tvg-logo="https://via.placeholder.com/100x50?text=Player+9" group-title="Movies",Star jalsha
+http://103.89.248.130:8082/Star_jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player10" tvg-name="ZEE Bangla" tvg-logo="https://via.placeholder.com/100x50?text=Player+10" group-title="Movies",ZEE Bangla
+http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player11" tvg-name="Sony Max 2" tvg-logo="https://via.placeholder.com/100x50?text=Player+11" group-title="Movies",Sony Max 2
+http://103.89.248.130:8082/sony-max2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player12" tvg-name="DISCOVERY KIDS" tvg-logo="https://via.placeholder.com/100x50?text=Player+12" group-title="Kids",DISCOVERY KIDS
+http://103.89.248.130:8082/DISCOVERY-KIDS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player13" tvg-name="Cartoon Network" tvg-logo="https://via.placeholder.com/100x50?text=Player+13" group-title="Kids",Cartoon Network
+http://103.89.248.130:8082/cn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player14" tvg-name="Travel Xp" tvg-logo="https://via.placeholder.com/100x50?text=Player+14" group-title="Movies",Travel Xp
+http://103.89.248.130:8082/travel-xp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player15" tvg-name="Sony Max" tvg-logo="https://via.placeholder.com/100x50?text=Player+15" group-title="Movies",Sony Max
+http://103.89.248.130:8082/SONY-MAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player16" tvg-name="SUPERSPORTS LALIGA" tvg-logo="https://via.placeholder.com/100x50?text=Player+16" group-title="Sports",SUPERSPORTS LALIGA
+http://103.89.248.130:8082/SUPERSPORTS-LALIGA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player17" tvg-name="RUPOSHI BANGLA" tvg-logo="https://via.placeholder.com/100x50?text=Player+17" group-title="Kids",RUPOSHI BANGLA
+http://103.89.248.130:8082/RUPOSHI-BANGLA/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player18" tvg-name="NGGbangla" tvg-logo="https://via.placeholder.com/100x50?text=Player+18" group-title="Music",NGGbangla
+http://103.89.248.130:8082/National-geo-graphy-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player19" tvg-name="Akash Aat" tvg-logo="https://via.placeholder.com/100x50?text=Player+19" group-title="Music",Akash Aat
+http://103.89.248.130:8082/Akash-aat/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player20" tvg-name="ENTER 10 BANGLA" tvg-logo="https://via.placeholder.com/100x50?text=Player+20" group-title="Sports",ENTER 10 BANGLA
+http://103.89.248.130:8082/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player21" tvg-name="Sun Bangla" tvg-logo="https://via.placeholder.com/100x50?text=Player+21" group-title="Sports",Sun Bangla
+http://103.89.248.130:8082/sunbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player22" tvg-name="BIJOY TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+22" group-title="News",BIJOY TV
+http://103.89.248.130:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player23" tvg-name="MOHONA TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+23" group-title="News",MOHONA TV
+http://103.89.248.130:8082/MOHONA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player24" tvg-name="DURONTO TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+24" group-title="Kids",DURONTO TV
+http://103.89.248.130:8082/DURONTO-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player25" tvg-name="ANANDA TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+25" group-title="Movies",ANANDA TV
+http://103.89.248.130:8082/ANANDA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player26" tvg-name="MY TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+26" group-title="Kids",MY TV
+http://103.89.248.130:8082/MY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player27" tvg-name="NAGORIK TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+27" group-title="Kids",NAGORIK TV
+http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player28" tvg-name="MAASRANGA TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+28" group-title="News",MAASRANGA TV
+http://103.89.248.130:8082/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player29" tvg-name="EKUSHEY TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+29" group-title="News",EKUSHEY TV
+http://103.89.248.130:8082/EKUSHEY-TV/tracks-v1a1/mono.m3u8
