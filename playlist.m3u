@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:-1 tvg-id="channel1" group-title="News",Channel 1
-http://example.com/stream1.ts
+http://103.89.248.130:8082/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="channel2" group-title="Sports",Channel 2
 http://example.com/stream2.ts
