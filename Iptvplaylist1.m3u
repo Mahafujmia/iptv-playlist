@@ -6,7 +6,7 @@ http://103.89.248.130:8082/SANGEET-BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="player2" tvg-name="71-TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+2" group-title="Sports",Player 2
 http://103.89.248.130:8082/71-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player3" tvg-name="DBC-NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+3" group-title="News",Player 3
+#EXTINF:-1 tvg-id="player3" tvg-name="DBC-NEWS" tvg-logo="https://github.com/Mahafujmia/iptv-playlist/blob/e5afc5da162f23bdd6c87abc78fdb6368a80758b/logos/dbcnews.jpg" group-title="News",Player 3
 http://103.89.248.130:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player4" tvg-name="INDEPENDENT NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+4" group-title="News",Player 4
@@ -18,7 +18,7 @@ http://103.89.248.130:8082/SOMOY_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="player6" tvg-name="NEWS 24" tvg-logo="https://via.placeholder.com/100x50?text=Player+6" group-title="Movies",Player 6
 http://103.89.248.130:8082/NEWS-24/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player7" tvg-name="ATN NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+7" group-title="Kids",Player 7
+#EXTINF:-1 tvg-id="player7" tvg-name="ATN NEWS" tvg-logo="https://github.com/Mahafujmia/iptv-playlist/blob/e5afc5da162f23bdd6c87abc78fdb6368a80758b/logos/atnbangla.jpg" group-title="Kids",Player 7
 http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player8" tvg-name="BBC NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+8" group-title="Kids",Player 8
