@@ -18,8 +18,7 @@ http://103.89.248.130:8082/SOMOY_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="player6" tvg-name="NEWS 24" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/logos/news24.jpg" group-title="Movies",NEWS 24
 http://103.89.248.130:8082/NEWS-24/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player7" tvg-name="ATN NEWS" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/c73515dc91799e8ef44aaf6c463bb939c86083c0/logos/atnbangla.jpg
-" group-title="Kids",ATN NEWS
+#EXTINF:-1 tvg-id="player7" tvg-name="ATN NEWS" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/c73515dc91799e8ef44aaf6c463bb939c86083c0/logos/atnbangla.jpg" group-title="Kids",ATN NEWS
 http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player8" tvg-name="BBC NEWS" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/logos/bbc-news.jpg" group-title="Kids",BBC NEWS
