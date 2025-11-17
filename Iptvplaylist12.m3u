@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="player1" tvg-name="SANGEET BANGLA" group-title="Sports",SANGEET BANGLA
+http://103.89.248.130:8082/SANGEET-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player2" tvg-name="71-TV" group-title="Sports",71-TV
+http://103.89.248.130:8082/71-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player3" tvg-name="DBC-NEWS" group-title="News",DBC-NEWS
+http://103.89.248.130:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player4" tvg-name="INDEPENDENT NEWS" group-title="News",INDEPENDENT NEWS
+http://103.89.248.130:8082/INDEPENDENT-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player5" tvg-name="SOMOY TV" group-title="Movies",SOMOY TV
+http://103.89.248.130:8082/SOMOY_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player6" tvg-name="NEWS 24" group-title="Movies",NEWS 24
+http://103.89.248.130:8082/NEWS-24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player7" tvg-name="ATN NEWS" group-title="Kids",ATN NEWS
+http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player8" tvg-name="BBC NEWS" group-title="Kids",BBC NEWS
+http://103.89.248.130:8082/BBC-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player9" tvg-name="SONY YAY" group-title="Music",SONY YAY
+http://103.89.248.130:8082/SONY-YAY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player10" tvg-name="Star jalsha" group-title="Music",Star jalsha
+http://103.89.248.130:8082/Star_jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player11" tvg-name="ZEE Bangla" group-title="Sports",ZEE Bangla
+http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player12" tvg-name="Sony Max 2" group-title="Sports",Sony Max 2
+http://103.89.248.130:8082/sony-max2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player13" tvg-name="DISCOVERY KIDS" group-title="News",DISCOVERY KIDS
+http://103.89.248.130:8082/DISCOVERY-KIDS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player14" tvg-name="Cartoon Network" group-title="News",Cartoon Network
+http://103.89.248.130:8082/cn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player15" tvg-name="Travel Xp" group-title="Movies",Travel Xp
+http://103.89.248.130:8082/travel-xp/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player16" tvg-name="Sony Max" group-title="Movies",Sony Max
+http://103.89.248.130:8082/SONY-MAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player17" tvg-name="SUPERSPORTS LALIGA" group-title="Kids",SUPERSPORTS LALIGA
+http://103.89.248.130:8082/SUPERSPORTS-LALIGA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player18" tvg-name="RUPOSHI BANGLA" group-title="Kids",RUPOSHI BANGLA
+http://103.89.248.130:8082/RUPOSHI-BANGLA/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player19" tvg-name="GAZI TV" group-title="Music",GAZI TV
+http://103.89.248.130:8082/GAZI-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player20" tvg-name="Akash Aat" group-title="Music",Akash Aat
+http://103.89.248.130:8082/Akash-aat/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player21" tvg-name="ENTER 10 BANGLA" group-title="Sports",ENTER 10 BANGLA
+http://103.89.248.130:8082/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player22" tvg-name="Sun Bangla" group-title="Sports",Sun Bangla
+http://103.89.248.130:8082/sunbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player23" tvg-name="BIJOY TV" group-title="News",BIJOY TV
+http://103.89.248.130:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player24" tvg-name="MOHONA TV" group-title="News",MOHONA TV
+http://103.89.248.130:8082/MOHONA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player25" tvg-name="DURONTO TV" group-title="Movies",DURONTO TV
+http://103.89.248.130:8082/DURONTO-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player26" tvg-name="ANANDA TV" group-title="Movies",ANANDA TV
+http://103.89.248.130:8082/ANANDA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player27" tvg-name="MY TV" group-title="Kids",MY TV
+http://103.89.248.130:8082/MY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player28" tvg-name="NAGORIK TV" group-title="Kids",NAGORIK TV
+http://103.89.248.130:8082/NAGORIK-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player29" tvg-name="MAASRANGA TV" group-title="Music",MAASRANGA TV
+http://103.89.248.130:8082/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player30" tvg-name="EKUSHEY TV" group-title="Music",EKUSHEY TV
+http://103.89.248.130:8082/EKUSHEY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player31" tvg-name="DEEPTO" group-title="Sports",DEEPTO
+http://103.89.248.130:8082/DEEPTO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player32" tvg-name="RTV" group-title="Sports",RTV
+http://103.89.248.130:8082/RTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player33" tvg-name="CHANNAL I" group-title="News",CHANNAL I
+http://103.89.248.130:8082/CHANNAL-I/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player34" tvg-name="BTV" group-title="News",BTV
+http://103.89.248.130:8082/BTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player35" tvg-name="BANGLAVISION" group-title="Movies",BANGLAVISION
+http://103.89.248.130:8082/BANGLAVISION-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player36" tvg-name="Sony Aath" group-title="Movies",Sony Aath
+http://103.89.248.130:8082/Sony-Aath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player37" tvg-name="JALSHA MOVIES" group-title="Kids",JALSHA MOVIES
+http://103.89.248.130:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player38" tvg-name="Colors Bangla" group-title="Kids",Colors Bangla
+http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player39" tvg-name="T SPORTS" group-title="Music",T SPORTS
+http://103.89.248.130:8082/T-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player40" tvg-name="Live 1" group-title="Music",Live 1
+http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player41" tvg-name="Player 41" group-title="Sports",Player 41
+http://103.89.248.130:8082/LIVE-FOOTBALL-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player42" tvg-name="STAR SPORTS 1" group-title="Sports",STAR SPORTS 1
+http://103.89.248.130:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player43" tvg-name="STAR SPORTS 2" group-title="News",STAR SPORTS 2
+http://103.89.248.130:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player44" tvg-name="GEO SPORTS" group-title="News",GEO SPORTS
+http://103.89.248.130:8082/GEO-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="player45" tvg-name="LIVE-FOOTBALL" group-title="Movies",LIVE-FOOTBALL
+http://103.89.248.130:8082/LIVE-FOOTBALL/tracks-v1a1/mono.m3u8
