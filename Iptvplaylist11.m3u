@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="player1" tvg-name="SANGEET BANGLA" tvg-logo="https://via.placeholder.com/100x50?text=Player+1" group-title="Sports",Player 1
+#EXTINF:-1 tvg-id="SANGEET BANGLA" tvg-name="SANGEET BANGLA" tvg-logo="https://via.placeholder.com/100x50?text=Player+1" group-title="Sports",Player 1
 http://103.89.248.130:8082/SANGEET-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player2" tvg-name="71-TV" tvg-logo="https://via.placeholder.com/100x50?text=Player+2" group-title="Sports",Player 2
 http://103.89.248.130:8082/71-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player3" tvg-name="DBC-NEWS" tvg-logo="https://github.com/Mahafujmia/iptv-playlist/blob/e5afc5da162f23bdd6c87abc78fdb6368a80758b/logos/dbcnews.jpg" group-title="News",Player 3
+#EXTINF:-1 tvg-id="DBC-NEWS" tvg-name="DBC-NEWS" tvg-logo="https://github.com/Mahafujmia/iptv-playlist/blob/e5afc5da162f23bdd6c87abc78fdb6368a80758b/logos/dbcnews.jpg" group-title="News",Player 3
 http://103.89.248.130:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player4" tvg-name="INDEPENDENT NEWS" tvg-logo="https://via.placeholder.com/100x50?text=Player+4" group-title="News",Player 4
