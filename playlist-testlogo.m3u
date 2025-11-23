@@ -1,0 +1,103 @@
+#EXTM3U
+
+######################
+# INDIAN BANGLA CHANNELS
+######################
+
+#EXTINF:-1 tvg-id="Star-Jalsha-HD" tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://103.89.248.130:8082/Star_jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Star-Jalsha" tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/d1PgMzVF/Star-Jalsha.jpg" group-title="Indian Bangla",Star Jalsha
+http://103.89.248.130:8082/Star_jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zee-Bangla-HD" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg" group-title="Indian Bangla",Zee Bangla HD
+http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Colors-Bangla-HD" tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
+http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Colors-Bangla-Cinema" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/KjcC2hkg/Colors-Bangla-Cinema.jpg" group-title="Indian Bangla",Colors Bangla Cinema
+http://103.89.248.130:8082/Colors-Bangla-Cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sun-Bangla-HD" tvg-name="Sun Bangla HD" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg" group-title="Indian Bangla",Sun Bangla HD
+http://103.89.248.130:8082/sunbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Jalsha-Movies-HD" tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg" group-title="Indian Bangla",Jalsha Movies HD
+http://103.89.248.130:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zee-Bangla-Cinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg" group-title="Indian Bangla",Zee Bangla Cinema
+http://103.89.248.130:8082/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABP-Ananda" tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg" group-title="Indian Bangla",ABP Ananda
+http://103.89.248.130:8082/ABP-Ananda/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Akash-Aath" tvg-name="Akash Aath" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg" group-title="Indian Bangla",Akash Aath
+http://103.89.248.130:8082/Akash-aat/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bangla-Jago" tvg-name="Bangla Jago" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg" group-title="Indian Bangla",Bangla Jago
+http://103.89.248.130:8082/Bangla-Jago/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DD-Bangla" tvg-name="DD Bangla" tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Indian Bangla",DD Bangla
+http://103.89.248.130:8082/DD-Bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Enter10-Bangla" tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg" group-title="Indian Bangla",Enter 10 Bangla
+http://103.89.248.130:8082/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Aath" tvg-name="R Plus News / Sony Aath" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg" group-title="Indian Bangla",R Plus News / Sony Aath
+http://103.89.248.130:8082/Sony-Aath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="24-Ghanta" tvg-name="TV9 Bangla / Bhi Channel / Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Indian Bangla",TV9 Bangla / Bhi Channel / Zee 24 Ghanta
+http://103.89.248.130:8082/24-Ghanta/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sananda-TV" tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/cLVryRNp/Sananda-TV.jpg" group-title="Indian Bangla",Sananda TV
+http://103.89.248.130:8082/Sananda-TV/tracks-v1a1/mono.m3u8
+
+######################
+# BANGLADESH CHANNELS
+######################
+
+#EXTINF:-1 tvg-id="Ananda-TV" tvg-name="Ananda TV" tvg-logo="https://i.ibb.co/zhpfnXry/Ananda-TV.jpg" group-title="Bangladesh",Ananda TV
+http://103.89.248.130:8082/ANANDA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATN-Bangla" tvg-name="ATN Bangla" tvg-logo="https://i.ibb.co/F41Zgxyr/ATN-Bangla.jpg" group-title="Bangladesh",ATN Bangla
+http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ATN-News" tvg-name="ATN News / Ayna TV" tvg-logo="https://i.postimg.cc/PxyNJrGm/ATN-News.jpg" group-title="Bangladesh",ATN News / Ayna TV
+http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bangla-TV" tvg-name="Bangla TV / Bangla 21 HD" tvg-logo="https://i.postimg.cc/qqXGm6D1/Bangla-TV.jpg" group-title="Bangladesh",Bangla TV / Bangla 21 HD
+http://103.89.248.130:8082/Bangla-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Banglavision" tvg-name="Banglavision" tvg-logo="https://i.ibb.co/h1fRcgM2/Banglavision.jpg" group-title="Bangladesh",Banglavision
+http://103.89.248.130:8082/BANGLAVISION-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bijoy-TV" tvg-name="Bijoy TV / Bishwa Bangla" tvg-logo="https://i.postimg.cc/1tnFM9wC/Bijoy-TV.jpg" group-title="Bangladesh",Bijoy TV / Bishwa Bangla
+http://103.89.248.130:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg" group-title="Bangladesh",BTV
+http://103.89.248.130:8082/BTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel-I" tvg-name="Channel I" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg" group-title="Bangladesh",Channel I
+http://103.89.248.130:8082/CHANNAL-I/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://i.postimg.cc/Qdr7mnkW/RTV.jpg" group-title="Bangladesh",RTV
+http://103.89.248.130:8082/RTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Somoy-TV" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg" group-title="Bangladesh",Somoy TV
+http://103.89.248.130:8082/SOMOY_TV/tracks-v1a1/mono.m3u8
+
+######################
+# SPORTS CHANNELS
+######################
+
+#EXTINF:-1 tvg-id="T-Sports-HD" tvg-name="T Sports HD" tvg-logo="https://i.ibb.co/Q3F9JyKH/T-Sports.jpg" group-title="Sports",T Sports HD
+http://103.89.248.130:8082/T-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Star-Sports-1-HD" tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg" group-title="Sports",Star Sports 1 HD
+http://103.89.248.130:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Star-Sports-2-HD" tvg-name="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg" group-title="Sports",Star Sports 2 HD
+http://103.89.248.130:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SuperSports-Laliga" tvg-name="SuperSports LaLiga" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg" group-title="Sports",SuperSports LaLiga
+http://103.89.248.130:8082/SUPERSPORTS-LALIGA/tracks-v1a1/mono.m3u8
