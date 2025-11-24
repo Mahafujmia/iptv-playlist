@@ -24,7 +24,7 @@ http://103.89.248.130:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="player8" tvg-name="BBC NEWS" tvg-logo="http://iptvidn.com/assets/images/bbcnews.jpg" group-title="News",BBC NEWS
 http://103.89.248.130:8082/BBC-NEWS/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player9" tvg-name="SONY YAY" tvg-logo="http://iptvidn.com/assets/images/sonyyay.jpg" group-title="KIds",SONY YAY
+#EXTINF:-1 tvg-id="player9" tvg-name="SONY YAY" tvg-logo="http://iptvidn.com/assets/images/sonyyay.jpg" group-title="Kids",SONY YAY
 http://103.89.248.130:8082/SONY-YAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player10" tvg-name="Star jalsha" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg" group-title="Indian Bangla",Star jalsha
