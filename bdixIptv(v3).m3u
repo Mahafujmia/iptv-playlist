@@ -111,7 +111,7 @@ http://103.89.248.130:8082/Sony-Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="player37" tvg-name="JALSHA MOVIES" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg" group-title="Indian Bangla",JALSHA MOVIES
 http://103.89.248.130:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player38" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Banglas",Colors Bangla
+#EXTINF:-1 tvg-id="player38" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla
 http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player39" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="Sports",T SPORTS
