@@ -96,7 +96,7 @@ http://103.89.248.130:8082/DEEPTO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="player32" tvg-name="RTV" tvg-logo="https://i.postimg.cc/Qdr7mnkW/RTV.jpg" group-title="Bangladashi",RTV
 http://103.89.248.130:8082/RTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="player33" tvg-name="CHANNAL I" tvg-logo="https://i.postimg.cc/tJq1jBz0/Channel-i.jpg" group-title="Bangladashi",CHANNAL I
+#EXTINF:-1 tvg-id="player33" tvg-name="CHANNAL I" tvg-logo="http://iptvidn.com/assets/images/channeli.jpg" group-title="Bangladashi",CHANNAL I
 http://103.89.248.130:8082/CHANNAL-I/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player34" tvg-name="BTV" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg" group-title="Bangladashi",BTV
