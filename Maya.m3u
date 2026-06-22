@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" group-title="Sports",T Sports HD
+http://103.23.206.189/tsportshd/video.m3u8
