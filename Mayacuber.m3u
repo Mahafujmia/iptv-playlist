@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangla News",Somoy TV
+http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="Bangladesh Television" group-title="Bangla TV",BTV
+http://103.23.206.189/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" group-title="Sports",T Sports HD
+http://103.23.206.189/tsportshd/tracks-v1a1/mono.m3u8
