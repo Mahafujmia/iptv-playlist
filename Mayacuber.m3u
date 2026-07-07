@@ -15,8 +15,8 @@ http://103.89.248.130:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Star_jalsha" tvg-name="Star Jalsha" group-title="Entertainment",Star Jalsha
 http://103.89.248.130:8082/Star_jalsha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ENTER-10-BANGLA" tvg-name="Enter10 Bangla" group-title="Entertainment",Enter10 Bangla
-http://103.89.248.130:8082/ENTER-10-BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ENTER-10-BANGLA" tvg-name="ZEE Bangla" group-title="Entertainment",ZEE Bangla
+http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="somoytv" tvg-name="Somoy TV" group-title="News",Somoy TV
 http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
