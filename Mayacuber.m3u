@@ -25,7 +25,10 @@ http://103.23.206.189/somoytv/tracks-v1a1/mono.m3u8
 http://103.23.206.189/btv/index.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports HD" group-title="Sports",T Sports HD
-http://103.23.206.189/tsportshd/tracks-v1a1/mono.m3u8
+http://103.23.206.196/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1LIVE" tvg-name="1LIVE" group-title="Entertainment",1LIVE
 http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tsportshd" tvg-name="Super-cricket" group-title="Sports",Super-cricket
+http://103.23.206.189/super-cricket/tracks-v1a1/mono.m3u8
