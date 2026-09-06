@@ -130,7 +130,7 @@ http://103.89.248.130:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?reconnect=1&timeo
 http://103.89.248.130:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?reconnect=1&timeout=10&buffer=5
 
 #EXTINF:-1 tvg-id="player44" tvg-name="GEO SPORTS" tvg-logo="http://iptvidn.com/assets/images/geosuper.jpg" group-title="Sports",GEO SPORTS
-http://103.89.248.130:8082/GEO-SPORTS/tracks-v1a1/mono.m3u8?reconnect=1&timeout=10&buffer=5
+http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player45" tvg-name="LIVE FOOTBALL2" tvg-logo="http://iptvidn.com/assets/images/LIVE-FOOTBALL.jpg" group-title="Sports",LIVE FOOTBALL2
 http://103.89.248.130:8082/LIVE-FOOTBALL/tracks-v1a1/mono.m3u8?reconnect=1&timeout=10&buffer=5
