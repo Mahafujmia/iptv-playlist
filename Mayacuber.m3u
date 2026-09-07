@@ -137,3 +137,6 @@ http://103.89.248.130:8082/LIVE-FOOTBALL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="player46" tvg-name="LIVE FOOTBALL3" tvg-logo="http://iptvidn.com/assets/images/LIVE-FOOTBALL.jpg" group-title="Sports",LIVE FOOTBALL3
 http://103.89.248.130:8082/POGO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="South Movies" group-title="South Movies",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
