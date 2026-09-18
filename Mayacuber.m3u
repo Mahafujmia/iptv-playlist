@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="JALSHA-MOVIES" tvg-name="Jalsha Movies" group-title="Entertainment",Jalsha Movies
-http://103.89.248.130:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/refs/heads/main/logos/file_00000000521082118731a26e0c5c99f0.png
 
 #EXTINF:-1 tvg-id="Colors-Bangla" tvg-name="Colors Bangla" group-title="Entertainment",Colors Bangla
 http://103.89.248.130:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
