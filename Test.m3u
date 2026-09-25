@@ -1,1 +1,12 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://cdn.jsdelivr.net/gh/Mahafujmia/iptv-playlist@bf130379/Logo/Bangladeshi/ATN%20Bangla.png" group-title="Bangladesh" tvg-chno="1",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla [Backup 1]" tvg-logo="https://cdn.jsdelivr.net/gh/Mahafujmia/iptv-playlist@bf130379/Logo/Bangladeshi/ATN%20Bangla.png" tvg-country="BD" tvg-language="ben" group-title="Bangladesh" tvg-chno="2" nexus-score="100",ATN Bangla [Backup 1]
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" tvg-logo="https://cdn.jsdelivr.net/gh/Mahafujmia/iptv-playlist@bf130379/Logo/Bangladeshi/Ananda%20TV.png" group-title="Bangladesh" tvg-chno="2",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV [Backup 1]" tvg-logo="https://cdn.jsdelivr.net/gh/Mahafujmia/iptv-playlist@bf130379/Logo/Bangladeshi/Ananda%20TV.png" group-title="Bangladesh" tvg-chno="3",Ananda TV [Backup 1]
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
