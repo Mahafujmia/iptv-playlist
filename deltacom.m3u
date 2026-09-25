@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="player39" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="Sports",T SPORTS
 http://103.89.248.130:8082/T-SPORTS/tracks-v1a1/mono.m3u8?reconnect=1&timeout=10&buffer=5
-#EXTINF:-1 tvg-id="player39" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="Sports",T SPORTS (copy)
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 1]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="582",T Sports [Backup 1]
 http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV [Backup 1]" tvg-logo="https://i.imgur.com/jkbo7Qe.png" tvg-chno="2" group-title="Bangladesh",Ananda TV [Backup 1]
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
