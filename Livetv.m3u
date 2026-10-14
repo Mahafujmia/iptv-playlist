@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="player39" tvg-name="T SPORTS" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg" group-title="Sports",T SPORTS
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 1]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="582",T Sports [Backup 1]
 http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV [Backup 1]" tvg-logo="https://i.imgur.com/jkbo7Qe.png" tvg-chno="2" group-title="Bangladesh",Ananda TV [Backup 1]
