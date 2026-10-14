@@ -3,7 +3,7 @@
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 1]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="582",T Sports [Backup 1]
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 2]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="583",T Sports [Backup 2]
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports [Backup 2]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="583",T Sports [Backup 2]
 http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV [Backup 1]" tvg-logo="https://i.imgur.com/jkbo7Qe.png" tvg-chno="2" group-title="Bangladesh",Ananda TV [Backup 1]
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
