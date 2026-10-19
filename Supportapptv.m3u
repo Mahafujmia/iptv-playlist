@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/ATN%20Bangla.png" group-title="Backup" channel-id="ATNBangla.bd",ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/atnnews.svg.png" tvg-country="BD" tvg-language="ben" group-title="Bangladesh" tvg-chno="4" channel-id="ATNNews.bd",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Ananda%20TV.png" group-title="Bangladesh" tvg-chno="1" channel-id="AnandaTV.bd",Ananda TV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
+#EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Asian%20TV.png" group-title="Bangladesh" tvg-chno="2" channel-id="AsianTV.bd",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="BTV World" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/BTV%20News.png" group-title="Bangladesh" http-referrer="https://www.rangdhonu.live" referrer="https://www.rangdhonu.live" tvg-chno="11",BTV World
+#EXTVLCOPT:http-referrer=https://www.rangdhonu.live
+https://homair-tv-production.up.railway.app/api/play/BTV%20World.m3u8
+#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Bangla%20TV.png" group-title="Bangladesh" tvg-chno="5" channel-id="BanglaTV.bd",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Banglavision.png" group-title="Bangladesh" tvg-chno="6" channel-id="BanglaVision.bd",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Bijoy%20TV.png" group-title="Bangladesh" tvg-chno="9" channel-id="BijoyTV.bd",Bijoy TV
+https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Boishakhi%20TV.png" group-title="Bangladesh" tvg-chno="10" channel-id="BoishakhiTV.bd",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Channel%20i.png" group-title="Bangladesh" tvg-chno="24" channel-id="ChannelI.bd",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/DBC%20News.png" group-title="Bangladesh" tvg-chno="16" channel-id="DBCNews.bd",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Desh%20TV.png" group-title="Bangladesh" tvg-chno="12" channel-id="DeshTV.bd",Desh TV
+https://stream.ottplus.live/live/desh_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Duronto%20TV.png" group-title="Backup" channel-id="DurontoTV.bd",Duronto TV
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts
+#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Ekattor%20TV.png" tvg-country="BD" tvg-language="ben" group-title="Bangladesh" tvg-chno="35" channel-id="EkattorTV.bd",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Ekushey%20Television.png" group-title="Bangladesh" tvg-chno="22" channel-id="EkusheyTV.bd",Ekushey TV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Jamuna%20TV.png" group-title="Bangladesh" tvg-chno="33" channel-id="JamunaTV.bd",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Maasranga%20Television.png" group-title="Bangladesh" tvg-chno="52" channel-id="MaasrangaTV.bd",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1 tvg-id="MohonaTV.bd" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Mohona%20TV.png" group-title="Bangladesh" tvg-chno="36" channel-id="MohonaTV.bd",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/My%20TV.png" group-title="Bangladesh" tvg-chno="82" channel-id="MyTV.bd",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-name="Nagorik TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Nagorik%20TV.png" group-title="Bangladesh" tvg-chno="40" channel-id="NagorikTV.bd",Nagorik TV
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/NTV.png" group-title="Bangladesh" tvg-chno="184" channel-id="NTV.bd",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="News24.bd" tvg-name="News 24" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/News24.png" group-title="Bangladesh" tvg-chno="129" channel-id="News24.bd",News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/RTV.png" group-title="Backup" channel-id="RTV.bd",RTV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+#EXTINF:-1 tvg-id="SomoyNewsTV.bd" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/Mahafujmia/iptv-playlist/main/Logo/Bangladeshi/Somoy%20TV.png" group-title="Bangladesh" tvg-chno="43" channel-id="SomoyNewsTV.bd",Somoy TV
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-chno="29" channel-id="IndependentTV.bd" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/independent-tv.png" tvg-id="IndependentTV.bd" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8
