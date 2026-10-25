@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="player39" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T SPORTS
 http://103.89.248.130:8082/1LIVE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="player399" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T SPORTS [Backup 1]
+#EXTINF:-1 tvg-id="player399" tvg-name="T SPORTS [Backup 1]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T SPORTS [Backup 1]
 http://103.23.206.196:8090/tsportshd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="player399" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T SPORTS [Backup 2]
+#EXTINF:-1 tvg-id="player399" tvg-name="T SPORTS [Backup 2]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T SPORTS [Backup 2]
 http://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 1]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="582",T SPORTS [Backup 3]
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 3]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="582",T SPORTS [Backup 3]
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports [Backup 4]" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports" tvg-chno="583",T SPORTS [Backup 4]
+http://10.20.80.22/streams/tsports.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV [Backup 1]" tvg-logo="https://i.imgur.com/jkbo7Qe.png" tvg-chno="2" group-title="Bangladesh",Ananda TV [Backup 1]
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/K1HmMRz.png" tvg-chno="6" group-title="Bangladesh",ATN Bangla
